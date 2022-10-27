@@ -67,3 +67,12 @@
 .ex-7-img:hover{
     filter: brightness(2) grayscale(100%)
 }
+
+/* esercizio 8 */
+
+.ex-8-img:hover{
+    border-radius: 20px;
+    filter: sepia(0.5) brightness(1.5);
+}
+
+/* esercizio 9 */
