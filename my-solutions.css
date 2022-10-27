@@ -54,3 +54,9 @@
 
 /* esercizio 6 */
 
+.ex-6-img:hover{
+    filter: grayscale(100%);
+}
+
+/* esercizio 7 */
+
