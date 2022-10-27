@@ -87,3 +87,19 @@
     filter: opacity(0.5) sepia(50%);
 }
 
+/* esercizio 10 */
+
+.ex-10-icon {
+    animation: rotation 4s linear infinite;
+}
+
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+/* esercizio 11 */
